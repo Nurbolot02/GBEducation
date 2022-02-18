@@ -98,11 +98,16 @@ git branch -D <branchName>
 
 или у вас уже есть локальный репозиторий  можете написать эти команды и связать ваш локальный и удаленный репозиторий
 
+
 ```
 git remote add origin https://github.com/Nurbolot02/Test.git
 git branch -M main
 git push -u origin main
 ```
+
+<Nurbolot02> имя пользовотеля
+<Test> имя созданного проекта
+
 
 
  
