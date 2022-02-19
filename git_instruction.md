@@ -101,14 +101,18 @@ git branch -D <branchName>
 
 
 ```
-git remote add origin https://github.com/Nurbolot02/Test.git
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/Nurbolot02/Test.git  - связывает удаленный и локальный репо
+
+git branch -M main - переименовывает ветку в main
+
+git push -u origin main -  указывает на какую удаленную репо отправить данные
 ```
 
 **Nurbolot02** - имя пользовотеля
 
 *Test* - имя созданного проекта
+
+
 
 
 
